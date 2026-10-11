@@ -1,0 +1,7 @@
+# local only
+_backup/
+*.zip
+.playwright-mcp/
+.vercel/
+Thumbs.db
+.DS_Store
